@@ -11,7 +11,7 @@
           <mxGeometry x="215" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fRXeXkVgSPPkMUa2Pq0s-4" value="学院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="310" width="80" height="30" as="geometry" />
+          <mxGeometry x="424" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fRXeXkVgSPPkMUa2Pq0s-5" value="学校" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="240" width="80" height="30" as="geometry" />
@@ -277,7 +277,13 @@
             <mxPoint x="750" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fRXeXkVgSPPkMUa2Pq0s-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRXeXkVgSPPkMUa2Pq0s-5">
+        <mxCell id="fRXeXkVgSPPkMUa2Pq0s-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRXeXkVgSPPkMUa2Pq0s-5" target="fRXeXkVgSPPkMUa2Pq0s-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="550" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fRXeXkVgSPPkMUa2Pq0s-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="550" y="310" as="targetPoint" />
