@@ -19,6 +19,9 @@
         <mxCell id="9FNbKtD274-9-CyZaMbD-5" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9FNbKtD274-9-CyZaMbD-6" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
