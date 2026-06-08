@@ -100,8 +100,8 @@
         <mxCell id="9FNbKtD274-9-CyZaMbD-21" value="浏览教师/课题列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="165" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FNbKtD274-9-CyZaMbD-22" value="浏览教师/课题列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="195" width="120" height="30" as="geometry" />
+        <mxCell id="9FNbKtD274-9-CyZaMbD-22" value="提交选题申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="195" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
