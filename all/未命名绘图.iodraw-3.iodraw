@@ -112,8 +112,8 @@
         <mxCell id="9FNbKtD274-9-CyZaMbD-25" value="显示申请信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="270" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FNbKtD274-9-CyZaMbD-26" value="最终确认选题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="300" width="100" height="30" as="geometry" />
+        <mxCell id="9FNbKtD274-9-CyZaMbD-26" value="确认接受的选题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
