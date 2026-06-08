@@ -10,8 +10,8 @@
         <mxCell id="9FNbKtD274-9-CyZaMbD-2" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9FNbKtD274-9-CyZaMbD-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="9FNbKtD274-9-CyZaMbD-3" value="系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="135" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
