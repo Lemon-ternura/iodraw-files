@@ -56,7 +56,7 @@
           <mxGeometry x="353.75" y="170" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lE2UpTx435XRaVzSAoyw-13" value="查看选题记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="102.5" height="60" as="geometry" />
+          <mxGeometry x="343.75" y="340" width="102.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lE2UpTx435XRaVzSAoyw-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lE2UpTx435XRaVzSAoyw-3" target="lE2UpTx435XRaVzSAoyw-12">
           <mxGeometry relative="1" as="geometry">
